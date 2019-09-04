@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\classification\\models\\trained_model-9000"
+all_model_checkpoint_paths: "D:\\classification\\models\\trained_model-9000"
